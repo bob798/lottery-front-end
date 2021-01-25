@@ -26,49 +26,31 @@
         prop="id"
         header-align="center"
         align="center"
-        label="">
+        label="序号">
       </el-table-column>
       <el-table-column
         prop="name"
         header-align="center"
         align="center"
-        label="">
+        label="公司名称">
       </el-table-column>
       <el-table-column
         prop="personTotal"
         header-align="center"
         align="center"
-        label="">
+        label="人员总数">
       </el-table-column>
       <el-table-column
         prop="qrcodeUrl"
         header-align="center"
         align="center"
-        label="">
+        label="二维码地址">
       </el-table-column>
       <el-table-column
         prop="backgroudImgUrl"
         header-align="center"
         align="center"
-        label="">
-      </el-table-column>
-      <el-table-column
-        prop="endTime"
-        header-align="center"
-        align="center"
-        label="">
-      </el-table-column>
-      <el-table-column
-        prop="createTime"
-        header-align="center"
-        align="center"
-        label="">
-      </el-table-column>
-      <el-table-column
-        prop="utime"
-        header-align="center"
-        align="center"
-        label="">
+        label="背景图片地址">
       </el-table-column>
       <el-table-column
         fixed="right"
